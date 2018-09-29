@@ -3,14 +3,23 @@ AIAT Academy materials on Python101 + Scipy (Google Colab)
 
 ## Course Outline
 #### Morning session
-- Introduction to Google Colaboratory
-- Introduction to Python (Basic)
-- Variables and operations
-- Functions
+- Introduction to Python
+- Python Basics (Part 1)
+  - Interactive Interpreter
+  - Comments
+  - Variable and Types
+  - Numbers and Booleans
+- Python Basics (Part 2.1)
+  - Strings
+  - Control I/O
+  - Functions
+  
 #### Afternoon session
-- Condition and loop
-- List and Dictionary
-- Scipy
+- Python Basics (Part 3)
+  - Control Flow (Condition)
+  - Loops
+  - List and Dictionary
+- Meet Scipy
   - Numpy
   - Matplotlib
   - pandas
