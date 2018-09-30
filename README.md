@@ -22,5 +22,5 @@ AIAT Academy materials on Python101 + Scipy (Google Colab)
   - Dictionary
 - Meet Scipy
   - Numpy
+  - Scipy
   - Matplotlib
-  - Pandas
