@@ -9,7 +9,7 @@ AIAT Academy materials on Python101 + Scipy (Google Colab)
   - Comments
   - Variable and Types
   - Numbers and Booleans
-- Python Basics (Part 2.1)
+- Python Basics (Part 2)
   - Strings
   - Console I/O
   - Functions
