@@ -24,3 +24,5 @@ AIAT Academy materials on Python101 + Scipy (Google Colab)
   - Numpy
   - Scipy
   - Matplotlib
+
+Google Colab: http://bit.ly/2Om03r5
