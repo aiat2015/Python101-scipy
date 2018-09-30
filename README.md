@@ -1,5 +1,5 @@
-# Python101 x Scipy
-AIAT Academy materials on Python101 + Scipy (Google Colab)
+# Python101 x ScPy
+AIAT Academy materials on Python101 + SciPy (Google Colab)
 
 ## Course Outline
 #### Morning session
@@ -20,9 +20,9 @@ AIAT Academy materials on Python101 + Scipy (Google Colab)
   - Loops
   - List
   - Dictionary
-- Meet Scipy
-  - Numpy
-  - Scipy
+- Meet SciPy
+  - NumPy
+  - SciPy
   - Matplotlib
 
 Google Colab: http://bit.ly/2Om03r5
