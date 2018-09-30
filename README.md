@@ -1,4 +1,4 @@
-# Python101 x ScPy
+# Python101 x SciPy
 AIAT Academy materials on Python101 + SciPy (Google Colab)
 
 ## Course Outline
