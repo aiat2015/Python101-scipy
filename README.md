@@ -18,8 +18,9 @@ AIAT Academy materials on Python101 + Scipy (Google Colab)
 - Python Basics (Part 3)
   - Control Flow (Condition)
   - Loops
-  - List and Dictionary
+  - List
+  - Dictionary
 - Meet Scipy
   - Numpy
   - Matplotlib
-  - pandas
+  - Pandas
