@@ -11,7 +11,7 @@ AIAT Academy materials on Python101 + Scipy (Google Colab)
   - Numbers and Booleans
 - Python Basics (Part 2.1)
   - Strings
-  - Control I/O
+  - Console I/O
   - Functions
   
 #### Afternoon session
